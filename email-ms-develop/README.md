@@ -80,7 +80,7 @@ spring.mail.host = smtp.gmail.com
 
 spring.mail.username = mailing.ms.novelis.broadcaster@gmail.com
 
-spring.mail.password = novelispfa2020/
+spring.mail.password = ******************
 
 
 #Below Properties are needed for maintaining the session.
